@@ -46,3 +46,5 @@ python3 BruteWordsCrank.py 6 6 -t "@@@^%%"
 ```
 python3 BruteWordsCrank.py 8 8 "0123456789" -o numeric_list.txt -l 1000000 --progress
 ```
+# Screenshot
+![](img/1.png)
