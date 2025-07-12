@@ -36,7 +36,7 @@ python3 BruteWordsCrank.py 3 3 "abc" -p "user" -s "2025"
 python3 BruteWordsCrank.py 6 6 -t "test%%" -o test_passwords.txt
 ```
 
->> (This will generate test00, test01, ..., test99)
+> (This will generate test00, test01, ..., test99)
 
 # Complex Pattern: Generate a password pattern with a lowercase word, a symbol, and two numbers.
 ```
