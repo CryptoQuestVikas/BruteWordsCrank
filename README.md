@@ -1,4 +1,15 @@
 # BruteWordsCrank
+# Requirements 
+```
+pip install tqdm
+pip install multiprocessing
+```
+# Setup
+```
+git clone https://github.com/CryptoQuestVikas/BruteWordsCrank
+cd BruteWordsCrank
+python3 BruteWordsCrank.py
+```
 
 # Usage:
 ```
